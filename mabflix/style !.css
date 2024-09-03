@@ -1,0 +1,21 @@
+body {
+    color:aquamarine;
+    background:aliceblue;
+}
+header {
+    border-bottom: solid 2px blue;
+    padding: opx;
+    font-size: 32px;
+}
+section {
+    padding-top: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+   }
+   .chamada-texto {
+   margin-right:5%;
+ }
+ h1{ font-size: 20px;
+ 
+ }
